@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Ronnie 👋
+
+I'm a full-stack node.js developer.
+
+### Languages and Tools
+- JavaScript
+- TypeScript
+- Vue and Nuxt.js
+- Git
+- Visual Studio Code
+
+### GitHub Stats
+
+[![Ronnie's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingWithNuke&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ronnie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodingWithNuke)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **CodingWithNuke/CodingWithNuke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
