@@ -6,6 +6,7 @@ I'm a full-stack node.js developer.
 - JavaScript
 - TypeScript
 - Vue and Nuxt.js
+- React (Basics)
 - Git
 - Visual Studio Code
 
