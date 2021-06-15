@@ -5,8 +5,11 @@ I'm a full-stack node.js developer.
 ### Languages and Tools
 - JavaScript
 - TypeScript
-- Vue and Nuxt.js
+- Vue.js
+- Nuxt.js
 - React (Basics)
+- Laravel (Basics)
+- SASS/SCSS
 - Git
 - Visual Studio Code
 
