@@ -1,6 +1,6 @@
 ### Hi there, I'm Ronnie 👋
 
-I'm a full-stack node.js developer.
+I'm a Full Stack Web Developer.
 
 ### Languages and Tools
 - JavaScript
