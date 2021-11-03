@@ -8,12 +8,20 @@ I'm a Full-stack Web Developer.
 - 😄 Pronouns: he/him
 
 ### Languages and Tools
+- HTML
+- CSS
 - JavaScript
 - TypeScript
+- Node.js
 - Vue.js
 - Nuxt.js
-- React (Basics)
-- Laravel (Basics)
 - SASS/SCSS
-- Git
+- Tailwind CSS
+- Express.js
 - Visual Studio Code
+- Git
+- MongoDB
+- React.js
+- Laravel
+- MySQL
+- PHP
