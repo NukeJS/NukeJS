@@ -21,6 +21,7 @@ I'm a Full-stack Web Developer.
 - Visual Studio Code
 - Git
 - MongoDB
+- Solid.js
 - React.js
 - Laravel
 - MySQL
